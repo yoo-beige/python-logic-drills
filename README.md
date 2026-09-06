@@ -40,7 +40,7 @@ problem-solving skills and programming logic using Python.
 Each program in this repository is written, tested, and understood by me.
 
 This repository will grow gradually as I continue learning.
-
+Author :Priyanshi Gupta
 ---
 
 
